@@ -1,6 +1,14 @@
-h1{
-    color: aquamarine;
-    border: 2px solid lime;
+/* 
+    by tag name 
+    by id  ------- (#)
+    by class ---- (.)
+*/
+
+#context{
+    color: crimson;
+    border: 2px solid crimson;
     padding: 20px 30px;
     margin: 40px 20px;
+    width: 200px;
+    height: 500px;
 } 
