@@ -1,3 +1,5 @@
 h1{
     color: aquamarine;
-}
+    border: 2px solid lime;
+    padding: 20px 30px 34px 40px;
+} 
